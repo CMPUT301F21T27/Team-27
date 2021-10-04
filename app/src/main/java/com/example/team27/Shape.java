@@ -7,5 +7,10 @@ public abstract class Shape {
     public String color = "blue";
     public Shape(int x, int y) {
 
+    String color = "blue";
+    }
+
+
+
 
 }
